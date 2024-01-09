@@ -1,0 +1,53 @@
+						Welcome to 50 Shades Xplore!!!!
+
+Your trip Itinerary is: 
+
+Hotel name: Hotel Venus Plaza
+Cost for 2 days: 20520
+Remaining budget: 19480
+
+Day 1: Visit India Gate
+Type Monument
+Open time - -
+Close time - -
+Time taken to visit 2 hrs
+Cost for adults: 0  
+Cost for children: 0 
+
+
+Visit Qutub Minar
+Type Monument
+Open time - 10:00am
+Close time - 5:00pm
+Time taken to visit 3 hrs
+Cost for adults: 40  
+Cost for children: 0 
+
+
+Visit Lotus Temple
+Type Temple
+Open time - 9:15am
+Close time - 7:00pm
+Time taken to visit 1 hrs
+Cost for adults: 0  
+Cost for children: 0 
+
+
+Day 2: Visit Akshardham Temple
+Type Temple
+Open time - 10:00am
+Close time - 8:00pm
+Time taken to visit 4 hrs
+Cost for adults: 220  
+Cost for children: 170 
+
+
+Visit Humayuns Tumb
+Type Monument
+Open time - 10:00am
+Close time - 6:00pm
+Time taken to visit 3 hrs
+Cost for adults: 10  
+Cost for children: 10 
+
+
